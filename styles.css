@@ -247,4 +247,7 @@ footer__link {
         font-size: 18px;
     }
     
+    .footer__links {
+        margin-bottom: 24px;
+    }
 }
